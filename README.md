@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 22, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alexis Harvey)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was about building an applocation that would show a photo gallery with pictures and allow users to navigate through them in different ways.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://aph15c.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to declare variables in order to make a scroll for photos.)
+2. (I learned how to use div and elements to change how you navigat and view the gallery.)
+3. (I learned how to create figure and img elements in order to view images in a specifc way.)
